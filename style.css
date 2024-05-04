@@ -1,0 +1,60 @@
+.card{
+    height: 380px;
+    width: 200px;
+    border: 1px solid;
+    margin: auto;
+    border-radius: 10px;
+}
+.sec1{
+    height: 40%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChnzDW_oHaWLjlqckAsET4BDoYyFuZo4N8w&s);
+    background-repeat: no-repeat;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-size: 100% 100%;
+    
+ }
+
+ .sec2{
+margin-top: 20px;
+padding-left: 10px;
+ }
+
+ .cardtag{
+    background-color:#6a4c93;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-left: 1px;
+    
+ }
+ .cardtag{
+
+ }
+
+ .cardtitle{
+    margin-left:3px;
+    
+
+ }
+
+ .cardpara{
+font-size: 15px;
+margin-left: 5px;
+
+ }
+ .cardprofile{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    margin-left:20px ;
+
+ }
+ .cardname{
+padding: auto;
+ }
+
+ .onlonestatus{
+    color: gray;
+
+ }
